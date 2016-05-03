@@ -1,0 +1,11 @@
+127.0.0.1 - - [25/Apr/2016:13:29:39 -0700] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [25/Apr/2016:13:29:42 -0700] "GET /fabflix/ HTTP/1.1" 200 848
+0:0:0:0:0:0:0:1 - - [25/Apr/2016:13:29:42 -0700] "GET /fabflix/css/loginStylesheet.css HTTP/1.1" 200 2401
+0:0:0:0:0:0:0:1 - - [25/Apr/2016:13:29:42 -0700] "GET /fabflix/js/script.js HTTP/1.1" 200 154
+0:0:0:0:0:0:0:1 - - [25/Apr/2016:13:29:51 -0700] "POST /fabflix/LoginController HTTP/1.1" 200 -
+127.0.0.1 - - [25/Apr/2016:13:34:08 -0700] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [25/Apr/2016:13:34:09 -0700] "GET /fabflix/ HTTP/1.1" 200 848
+0:0:0:0:0:0:0:1 - - [25/Apr/2016:13:34:09 -0700] "GET /fabflix/js/script.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [25/Apr/2016:13:34:09 -0700] "GET /fabflix/css/loginStylesheet.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [25/Apr/2016:13:34:16 -0700] "POST /fabflix/LoginController HTTP/1.1" 200 875
+0:0:0:0:0:0:0:1 - - [25/Apr/2016:13:34:23 -0700] "POST /fabflix/LoginController HTTP/1.1" 200 875
